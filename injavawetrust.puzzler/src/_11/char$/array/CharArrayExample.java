@@ -7,5 +7,12 @@ public class CharArrayExample {
 		System.out.println(numbers);
 
 		System.out.println("Java " + numbers);
+
+		System.out.println("fix : ");
+		
+		System.out.println("Java " + String.valueOf(numbers));
+		
+		System.out.print("Java ");
+		System.out.println(numbers);
 	}
 }
