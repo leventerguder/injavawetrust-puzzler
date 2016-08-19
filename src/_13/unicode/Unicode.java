@@ -1,6 +1,6 @@
 package _13.unicode;
 
-public class UnicodeTable {
+public class Unicode {
 
 	public static void main(String[] args) {
 		// \u0022 double quote (")
