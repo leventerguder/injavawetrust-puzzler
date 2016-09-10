@@ -13,5 +13,5 @@ public class TillMaxValueFixed {
 		System.out.println(count);
 
 	}
-	
+	 
 }
