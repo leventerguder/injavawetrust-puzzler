@@ -11,7 +11,6 @@ public class TillMaxValue {
 		for (int i = START; i <= END; i++)
 			count++;
 		System.out.println(count);
-		
 
 	}
 
