@@ -11,8 +11,12 @@ public class TillMaxValue {
 		for (int i = START; i <= END; i++)
 			count++;
 		System.out.println(count);
-		
 
+		// Integer.MAX_VALUE = 2147483647
+
+		// for int type
+		// 2147483647+1 --> -2147483648 (it is negative !)
+		// loop never ends!
 	}
 
 }

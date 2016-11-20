@@ -7,12 +7,19 @@ public class TillMaxValueFixed {
 	public static void main(String[] args) {
 		int count = 0;
 
-		//use long i intead of int i
+		// use long i intead of int i
 		for (long i = START; i <= END; i++)
 			count++;
 		System.out.println(count);
 
+		// Integer.MAX_VALUE = 2147483647
+
+		// for int type
+		// 2147483647+1 --> -2147483648 (it is negative !)
+
+		// for long type
+		/// 2147483648
+
 	}
-	
-	 
+
 }
