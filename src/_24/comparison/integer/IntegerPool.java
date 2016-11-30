@@ -3,6 +3,7 @@ package _24.comparison.integer;
 public class IntegerPool {
 
 	public static void main(String[] args) {
+		
 		Integer number1 = 100;
 		Integer number2 = 100;
 
