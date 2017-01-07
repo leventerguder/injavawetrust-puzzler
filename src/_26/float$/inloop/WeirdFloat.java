@@ -5,7 +5,7 @@ public class WeirdFloat {
 	public static void main(String[] args) {
 
 		float f1 = 2000000000f;
-		float f2 = f1++;
+		float f2 = ++f1;
 		float f3 = f1 + 1;
 		float f4 = f1 + 64;
 
