@@ -7,7 +7,7 @@ public class CatchIOException {
 	public static void main(String[] args) {
 
 //		try {
-//			System.out.println("Hello World!");
+//			System.out.println("Hello CatchIOException#main !");
 //			// Unreachable catch block for IOException. This exception is never
 //			// thrown from the try statement body
 //			// Compiler Error
