@@ -1,8 +1,9 @@
-package _22.nan.loop;
+package chapter04.puzzle29;
 
 public class NaN {
 
 	public static void main(String[] args) {
+
 		double number = 0.0 / 0.0;
 
 		System.out.println(number); // NaN

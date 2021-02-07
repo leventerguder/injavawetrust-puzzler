@@ -1,9 +1,10 @@
-package _20.twos.complement;
+package chapter04.puzzle27;
 
 public class NegativeLeftShifting {
 
 	public static void main(String[] args) {
 
+		// http://www.binaryconvert.com/result_signed_int.html?decimal=045049
 		// -1
 		// 11111111 11111111 11111111 11111111
 

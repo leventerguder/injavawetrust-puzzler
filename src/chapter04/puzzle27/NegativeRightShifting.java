@@ -1,4 +1,4 @@
-package _20.twos.complement;
+package chapter04.puzzle27;
 
 public class NegativeRightShifting {
 
